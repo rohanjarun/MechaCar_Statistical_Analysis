@@ -27,5 +27,19 @@ From the first image we can see that the variance is 62.29356 which shows that t
 ![Deliverable_3.1](Resources/Deliverable_3.1.png)
 ![Deliverable_3.2](Resources/Deliverable_3.2.png)
 ![Deliverable_3.3](Resources/Deliverable_3.3.png)
+Here a t-test is taken and we see that, Lot3 has p-value of 0.4168 which is below the significance value of 0.05, the psi for all of them is 0.06, the psi for Lot2 is 0.6072 and Lot1 is 1. 
 
-## Study Design: MechaCar vs Competetion
+## Study Design: MechaCar vs Competition
+- What metric or metrics are you going to test?
+I would test the fuel efficiency, the road type and carbon output
+
+- What is the null hypothesis or alternative hypothesis?
+H0 means there is no statistical difference and the fuel efficiency of all classes would be considered equal. 
+HA: means that there is a statistical difference and at lease one vehicle has a varying mean of fuel efficiency
+
+
+- What statistical test would you use to test the hypothesis? And why?
+ANOVA, reason being that it compares the mean of continous variable between several groups, which would show and statistical difference in the fuel efficiency.
+
+- What data is needed to run the statistical test?
+We would need MechaCars stats along with all of their competitors, the dependent variable which in this case is the fuel efficiency as it is numeric, continous as well as normally distributed. 
