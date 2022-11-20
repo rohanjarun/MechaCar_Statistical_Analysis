@@ -6,6 +6,7 @@
 - Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a summary interpretation of the findings.
 
 ## Linear Regression to Predict MPG
+![Deliverable_1.0](Resources/Deliverable_1.0.png)
 
 ## Summary Statistics on Suspension Coils
 
